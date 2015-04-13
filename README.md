@@ -24,7 +24,7 @@ at National Taichung University of Science and Technology.
 * [XCode](##XCode)
     * [Plugins](##Plugins)
 
-##Objective-C
+##Java
 * [Code Style](https://github.com/imac-ios-team/iOS-objc-repos/blob/master/coding_style.md)
 
 ##SDK整合
@@ -32,7 +32,7 @@ at National Taichung University of Science and Technology.
 
 ##Testing
 
-##XCode
+##Java
 
 
 
