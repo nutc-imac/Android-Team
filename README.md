@@ -15,7 +15,7 @@ This team is from i.m.a.c students and graduated students of CSIE Department
 at National Taichung University of Science and Technology.
 
 # 項目列表
-* [Objective-C](##Objective-C)
+* [Java](##Java)
 * [SDK整合](##SDK整合)
 * [測試(Testing)](##Testing)
     * [TDD / BDD](##TDD / BDD)
