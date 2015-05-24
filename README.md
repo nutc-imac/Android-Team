@@ -15,18 +15,13 @@ This team is from i.m.a.c students and graduated students of CSIE Department
 at National Taichung University of Science and Technology.
 
 # 項目列表
-* [Java](## Java)
-* [SDK整合](## SDK整合)
-* [模組](## 模組類別)
-* [測試(Testing)](## Testing)
 
-
-## Java
+### Java
 * [Code Style](https://source.android.com/source/code-style.html)
 
-## SDK整合
+### SDK整合
 
-## 模組類別
+### 模組類別
 * [ConnectDatabase](https://github.com/imac-android-team/ConnectDatabase)
 * [TextViewModule](https://github.com/imac-android-team/TextViewModule)
 * [ProgressDialogModule](https://github.com/imac-android-team/ProgressDialogModule)
@@ -34,7 +29,7 @@ at National Taichung University of Science and Technology.
 * [FTPModule](https://github.com/imac-android-team/FTPModule)
 * [Flip3dMenu-](https://github.com/imac-android-team/Flip3dMenu-)
 
-## Testing
+### Testing
 
 
 ## Credits
